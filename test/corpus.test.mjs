@@ -154,5 +154,16 @@ test('肉鸽结局和 IF 线能读', () => {
 test('水月肉鸽结局能按叫法搜到', () => {
   const result = corpus.find('水月肉鸽三结局剧情', 'story', 20)
   assert.ok(result.rows.length >= 12)
+  assert.ok(result.rows.some((row) => row.id.includes('rogue_2.endbook')))
+  assert.match(corpus.storyById.get('story.obt.rogue.rogue_2.endbook.endbook_rogue_2_1_1.txt').title, /水月/)
+})
+
+test('模糊叫法能落到活动章节', () => {
+  const anniversary = corpus.find('7.5周年剧情', 'story', 20)
+  assert.ok(anniversary.rows.some((row) => row.id.includes('act55side')))
+  const latest = corpus.find('最新活动', 'story', 20)
+  assert.ok(latest.rows.some((row) => row.id.includes('act55side')))
+  const sui = corpus.find('岁家肉鸽', 'story', 20)
+  assert.ok(sui.rows.some((row) => row.id.includes('rogue_5')))
 })
 
