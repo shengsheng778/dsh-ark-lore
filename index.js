@@ -1,10 +1,10 @@
 import { resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-import { loadCorpus } from './lib/load.js'
-import { createLiveTools } from './lib/live.js'
-import { loadSkill } from './lib/skill.js'
-import { createTools } from './lib/tools.js'
+import { loadCorpus } from './源码/load.js'
+import { createLiveTools } from './源码/live.js'
+import { loadSkill } from './源码/skill.js'
+import { createTools } from './源码/tools.js'
 
 export const name = 'ark-lore'
 export const inject = ['tools', 'skills']
@@ -12,7 +12,7 @@ export const inject = ['tools', 'skills']
 export function apply(ctx, config = {}) {
   const dataDir = config.dataDir
     ? resolve(String(config.dataDir))
-    : fileURLToPath(new URL('./data/', import.meta.url))
+    : fileURLToPath(new URL('./数据/', import.meta.url))
 
   const corpus = loadCorpus(dataDir)
   const disposers = []

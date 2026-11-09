@@ -1,21 +1,21 @@
 {
   "name": "dsh-ark-lore",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "Arknights lore memory for DeepSeek Harness: faction files, alias routing, in-world timeline.",
   "type": "module",
   "main": "./index.js",
   "exports": {
     ".": "./index.js",
-    "./locale/*.json": "./locale/*.json",
+    "./语言/*.json": "./语言/*.json",
     "./icon": "./icon.svg"
   },
   "files": [
     "index.js",
-    "lib",
-    "data",
-    "skills",
-    "scripts",
-    "locale",
+    "源码",
+    "数据",
+    "技能",
+    "脚本",
+    "语言",
     "icon.svg",
     "cordis.patch.yml",
     "README.md",
