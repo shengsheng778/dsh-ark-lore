@@ -137,6 +137,12 @@ test('输出有长度上限', () => {
   assert.ok([...text].length <= 300)
 })
 
+test('数据版本能报出来', () => {
+  const stats = corpus.stats()
+  assert.equal(stats.schemaVersion, 1)
+  assert.ok(stats.dataVersion)
+})
+
 test('实时修正能落到内存', () => {
   const tiny = new Corpus({ entities: [{ id: 'x', type: 'org', name: 'X', summary: '旧' }] })
   const message = tiny.applyCorrection('x', { summary: '新' }, { source: 'test' })

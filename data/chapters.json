@@ -1,0 +1,565 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-09",
+  "chapters": {
+    "主线": {
+      "title": "主线",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 425
+    },
+    "干员密录": {
+      "title": "干员密录",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 399
+    },
+    "骑兵与猎人": {
+      "title": "骑兵与猎人",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 16
+    },
+    "乌萨斯的孩子们": {
+      "title": "乌萨斯的孩子们",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "阴云火花": {
+      "title": "阴云火花",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "沃伦姆德的薄暮": {
+      "title": "沃伦姆德的薄暮",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 20
+    },
+    "未尽篇章": {
+      "title": "未尽篇章",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "密林悍将归来": {
+      "title": "密林悍将归来",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 21
+    },
+    "日暮寻路": {
+      "title": "日暮寻路",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "多索雷斯假日": {
+      "title": "多索雷斯假日",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 20
+    },
+    "踏寻往昔之风": {
+      "title": "踏寻往昔之风",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "玛莉娅·临光": {
+      "title": "玛莉娅·临光",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "好久不见": {
+      "title": "好久不见",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "长夜临光": {
+      "title": "长夜临光",
+      "aliases": [
+        "2.5周年"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "春分": {
+      "title": "春分",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "风雪过境": {
+      "title": "风雪过境",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 20
+    },
+    "孤岛风云": {
+      "title": "孤岛风云",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 18
+    },
+    "此地之外": {
+      "title": "此地之外",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "眠于树影之中": {
+      "title": "眠于树影之中",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "将进酒": {
+      "title": "将进酒",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 19
+    },
+    "画中人": {
+      "title": "画中人",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 17
+    },
+    "去咧嘴谷": {
+      "title": "去咧嘴谷",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "吾导先路": {
+      "title": "吾导先路",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 18
+    },
+    "源石尘行动": {
+      "title": "源石尘行动",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 17
+    },
+    "熔炉“还魂”记": {
+      "title": "熔炉“还魂”记",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "愚人号": {
+      "title": "愚人号",
+      "aliases": [
+        "4周年",
+        "四周年"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "遗尘漫步": {
+      "title": "遗尘漫步",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 14
+    },
+    "覆潮之下": {
+      "title": "覆潮之下",
+      "aliases": [
+        "3周年",
+        "三周年"
+      ],
+      "summary": "",
+      "storyCount": 18
+    },
+    "我们明日见": {
+      "title": "我们明日见",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "尘影余音": {
+      "title": "尘影余音",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "镜中集": {
+      "title": "镜中集",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "绿野幻梦": {
+      "title": "绿野幻梦",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 20
+    },
+    "十字路口": {
+      "title": "十字路口",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "理想城：长夏狂欢季": {
+      "title": "理想城：长夏狂欢季",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 18
+    },
+    "丛林症结": {
+      "title": "丛林症结",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "叙拉古人": {
+      "title": "叙拉古人",
+      "aliases": [
+        "3.5周年"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "照我以火": {
+      "title": "照我以火",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 18
+    },
+    "登临意": {
+      "title": "登临意",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 19
+    },
+    "落叶逐火": {
+      "title": "落叶逐火",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "孤星": {
+      "title": "孤星",
+      "aliases": [
+        "5周年",
+        "五周年"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "空想花庭": {
+      "title": "空想花庭",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "火山旅梦": {
+      "title": "火山旅梦",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 19
+    },
+    "不义之财": {
+      "title": "不义之财",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "崔林特尔梅之金": {
+      "title": "崔林特尔梅之金",
+      "aliases": [
+        "4.5周年"
+      ],
+      "summary": "",
+      "storyCount": 23
+    },
+    "银心湖列车": {
+      "title": "银心湖列车",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "怀黍离": {
+      "title": "怀黍离",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 19
+    },
+    "水晶箭行动": {
+      "title": "水晶箭行动",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "巴别塔": {
+      "title": "巴别塔",
+      "aliases": [
+        "6周年",
+        "六周年"
+      ],
+      "summary": "",
+      "storyCount": 23
+    },
+    "生路": {
+      "title": "生路",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "太阳甩在身后": {
+      "title": "太阳甩在身后",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 19
+    },
+    "泰拉饭": {
+      "title": "泰拉饭",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 16
+    },
+    "追迹日落以西": {
+      "title": "追迹日落以西",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 18
+    },
+    "揭幕者们": {
+      "title": "揭幕者们",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 24
+    },
+    "出苍白海": {
+      "title": "出苍白海",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "火蓝之心": {
+      "title": "火蓝之心",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 26
+    },
+    "相见欢": {
+      "title": "相见欢",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 19
+    },
+    "挽歌燃烧殆尽": {
+      "title": "挽歌燃烧殆尽",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "众生行记": {
+      "title": "众生行记",
+      "aliases": [
+        "7周年",
+        "七周年",
+        "去年周年"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "红丝绒": {
+      "title": "红丝绒",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "墟": {
+      "title": "墟",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "无忧梦呓": {
+      "title": "无忧梦呓",
+      "aliases": [
+        "夏活",
+        "夏季活动"
+      ],
+      "summary": "",
+      "storyCount": 17
+    },
+    "雪山降临1101": {
+      "title": "雪山降临1101",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 24
+    },
+    "未许之地": {
+      "title": "未许之地",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "雅赛努斯复仇记": {
+      "title": "雅赛努斯复仇记",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "辞岁行": {
+      "title": "辞岁行",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "战地秘闻": {
+      "title": "战地秘闻",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "泡影苍霆": {
+      "title": "泡影苍霆",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 18
+    },
+    "人们，我们": {
+      "title": "人们，我们",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 18
+    },
+    "昨日海": {
+      "title": "昨日海",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "直到大地变成一颗酸橙": {
+      "title": "直到大地变成一颗酸橙",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 19
+    },
+    "月行水上": {
+      "title": "月行水上",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 13
+    },
+    "时间啊，向前！": {
+      "title": "时间啊，向前！",
+      "aliases": [
+        "7.5周年",
+        "七点五周年",
+        "7.5 周年",
+        "半周年",
+        "今年周年",
+        "周年",
+        "2026感谢庆典"
+      ],
+      "summary": "",
+      "storyCount": 24
+    },
+    "喧闹法则": {
+      "title": "喧闹法则",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 27
+    },
+    "洪炉示岁": {
+      "title": "洪炉示岁",
+      "aliases": [
+        "春节",
+        "春节活动",
+        "过年"
+      ],
+      "summary": "",
+      "storyCount": 3
+    },
+    "午间逸话": {
+      "title": "午间逸话",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "灯火序曲": {
+      "title": "灯火序曲",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "如我所见": {
+      "title": "如我所见",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 6
+    },
+    "生于黑夜": {
+      "title": "生于黑夜",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 13
+    },
+    "红松林": {
+      "title": "红松林",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 7
+    },
+    "肉鸽": {
+      "title": "肉鸽",
+      "aliases": [],
+      "summary": "",
+      "storyCount": 267
+    }
+  }
+}
