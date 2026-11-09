@@ -20,7 +20,7 @@ dsh plugin add github:shengsheng778/dsh-ark-lore
 From a release tarball:
 
 ```sh
-dsh plugin add https://github.com/shengsheng778/dsh-ark-lore/releases/download/v0.11.1/dsh-ark-lore.tgz
+dsh plugin add https://github.com/shengsheng778/dsh-ark-lore/releases/download/v0.11.2/dsh-ark-lore.tgz
 ```
 
 ## Tools
@@ -33,4 +33,5 @@ dsh plugin add https://github.com/shengsheng778/dsh-ark-lore/releases/download/v
 ## Feedback
 
 QQ group: `1129849036` (Chinese). Test builds, bug reports, and data corrections go there.
+
 

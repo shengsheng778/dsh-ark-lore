@@ -1,6 +1,6 @@
 {
   "name": "dsh-ark-lore",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "description": "Arknights lore memory for DeepSeek Harness: faction files, alias routing, in-world timeline.",
   "type": "module",
   "main": "./index.js",

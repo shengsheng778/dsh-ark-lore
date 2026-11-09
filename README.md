@@ -37,14 +37,14 @@ dsh-ark-lore/
 **桌面端（推荐）**
 
 1. 打开「插件」，右上角「＋ 添加插件」。
-2. 来源选「本地目录」，指向解压后的 `dsh-ark-lore` 文件夹；或者来源选「本地 .tgz」，指向 `dsh-ark-lore-0.11.1.tgz`。
+2. 来源选「本地目录」，指向解压后的 `dsh-ark-lore` 文件夹；或者来源选「本地 .tgz」，指向 `dsh-ark-lore-0.11.2.tgz`。
 3. 装完启用，重启一次 DSH（换新模块要重启）。
 4. 新建会话，问一句「龙门后来怎么样了」，模型应该会先调 `ark_find`。
 
 **命令行**
 
 ```bash
-dsh plugin --profile <你的 profile> add /绝对路径/dsh-ark-lore-0.11.1.tgz
+dsh plugin --profile <你的 profile> add /绝对路径/dsh-ark-lore-0.11.2.tgz
 ```
 
 Web profile 可以直接加；Electron 桌面的 `desktop` profile 由应用管理，用界面装，别用命令行。
@@ -176,6 +176,7 @@ node --test 测试/corpus.test.mjs 测试/plugin.test.mjs
 ## 许可
 
 代码 MIT。数据是玩家向的设定摘要，不含游戏素材；《明日方舟》及其角色、名称、设定归鹰角网络 / Yostar 所有。PRTS 年表和 Kengxxiao 数据仓库各有自己的许可/使用约定，再分发前自己核对，别直接商用。
+
 
 
 
