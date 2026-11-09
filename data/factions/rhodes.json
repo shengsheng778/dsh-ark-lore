@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rhodes",
+    "type": "org",
+    "name": "罗德岛",
+    "aliases": ["Rhodes Island"],
+    "faction": "罗德岛",
+    "summary": "以制药为名的感染者救助组织，阿米娅与凯尔希主事。",
+    "body": "罗德岛挂着制药公司的牌子，实际干的是感染者救助、矿石病研究和武装护送。阿米娅是公开领袖，凯尔希管医疗和决策，博士管战术。跟龙门是合作，不是上下级。阿给他们供过药，也接过他们的活，价钱照算。",
+    "tags": ["制药", "感染者", "矿石病", "阿米娅", "凯尔希"],
+    "knowledge": "rhodes",
+    "confidence": "high",
+    "source": "主线；干员档案",
+    "asOf": "1097"
+  },
+  {
+    "id": "amiya",
+    "type": "person",
+    "name": "阿米娅",
+    "aliases": ["Amiya"],
+    "faction": "罗德岛",
+    "summary": "罗德岛公开领袖，卡特斯，能读情绪。",
+    "body": "阿米娅，卡特斯，罗德岛的公开领袖。年纪不大，扛的事不小。共情能力强，能读到别人的情绪，所以跟她说话藏不住。阿觉得这小姑娘太累，但没当面说过。",
+    "tags": ["卡特斯", "领袖", "共情"],
+    "knowledge": "rhodes",
+    "confidence": "high",
+    "source": "主线0-8章",
+    "asOf": "1097"
+  },
+  {
+    "id": "kaltsit",
+    "type": "person",
+    "name": "凯尔希",
+    "aliases": ["Kal'tsit"],
+    "faction": "罗德岛",
+    "summary": "罗德岛医疗主管，Mon3tr 的持有者，说话像谜语。",
+    "body": "凯尔希，罗德岛医疗主管，身边跟着 Mon3tr。知道的东西多得不正常，说话总留半截。阿跟她打过几次交道，药理学上服气，别的免谈。",
+    "tags": ["医疗", "Mon3tr", "谜语"],
+    "knowledge": "rhodes",
+    "confidence": "high",
+    "source": "主线；干员档案",
+    "asOf": "1097"
+  },
+  {
+    "id": "doctor",
+    "type": "person",
+    "name": "博士",
+    "aliases": ["Doctor", "刀客塔"],
+    "faction": "罗德岛",
+    "summary": "罗德岛战术指挥，失忆，从切城石棺里被救出来。",
+    "body": "博士，罗德岛的战术指挥。1096年从切尔诺伯格的石棺里被捞出来，之前的事不记得。打仗是真有一套，生活上据说不太行。阿没怎么跟他单独说过话。",
+    "tags": ["战术指挥", "失忆", "石棺"],
+    "knowledge": "rhodes",
+    "confidence": "high",
+    "source": "主线0-4章",
+    "asOf": "1097"
+  }
+]

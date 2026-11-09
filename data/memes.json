@@ -1,0 +1,995 @@
+[
+  {
+    "id": "meme.doctor",
+    "term": "刀客塔",
+    "aliases": [
+      "刀塔客"
+    ],
+    "kind": "nickname",
+    "meaning": "玩家对“博士”的谐音叫法，社区最常用的称呼之一。",
+    "origin": "“博士”的发音梗，具体出处不可考。",
+    "usage": "玩家之间称呼博士，或模仿社区口吻。",
+    "avoid": "正式剧情讨论里别拿它替代“博士”。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.amiya_donkey",
+    "term": "阿米娅的驴梗",
+    "aliases": [
+      "阿米娅不是驴",
+      "驴梗"
+    ],
+    "kind": "community",
+    "meaning": "拿阿米娅的兔耳/驴耳开玩笑的老梗，常配“阿米娅不是驴”的否认。",
+    "origin": "早期立绘耳朵形状引发的社区玩笑。",
+    "usage": "玩家间调侃；写角色对话时最多一笔带过。",
+    "avoid": "别当着阿米娅或兔党反复说，容易挨打。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.riddler",
+    "term": "谜语人",
+    "aliases": [
+      "谜语"
+    ],
+    "kind": "story",
+    "meaning": "吐槽方舟剧情里人物说话绕、关键信息藏着不直说。",
+    "origin": "玩家对长台词和谜语式对白的概括。",
+    "usage": "聊剧情观感、凯尔希式发言时用。",
+    "avoid": "别把所有角色都叫谜语人，阿米娅和大部分干员说话并不绕。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.this_land",
+    "term": "这片大地",
+    "aliases": [
+      "这片大地……"
+    ],
+    "kind": "story",
+    "meaning": "凯尔希式宏大开场的高频词，常被拿来模仿她讲话。",
+    "origin": "凯尔希的台词风格。",
+    "usage": "模仿凯尔希、或调侃剧情突然上价值。",
+    "avoid": "别把它当成凯尔希的固定口头禅，她不是每句都这么说。",
+    "confidence": "medium",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.omniscient",
+    "term": "无所不知",
+    "aliases": [
+      "凯尔希无所不知"
+    ],
+    "kind": "story",
+    "meaning": "玩家对凯尔希“什么都知道、什么都不说”的吐槽。",
+    "origin": "凯尔希在剧情里长期掌握关键信息。",
+    "usage": "聊凯尔希、或吐槽信息差时用。",
+    "avoid": "别当成官方设定；她也有不知道的事。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.old_woman",
+    "term": "老女人",
+    "aliases": [
+      "凯尔希老女人"
+    ],
+    "kind": "community",
+    "meaning": "拿凯尔希的年龄和长寿设定开的玩笑。",
+    "origin": "凯尔希活得久、知道得多。",
+    "usage": "仅玩家间调侃。",
+    "avoid": "别在正经剧情分析或角色对话里当面叫，容易得罪人。",
+    "confidence": "medium",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.lungmen_swear",
+    "term": "龙门粗口",
+    "aliases": [
+      "龙门粗口"
+    ],
+    "kind": "story",
+    "meaning": "指陈在剧情/动画里被消音或打码的脏话，社区拿来做梗。",
+    "origin": "陈的暴躁脾气和几处被消音的台词。",
+    "usage": "形容陈生气、或龙门人说话冲。",
+    "avoid": "别真的照搬脏话；阿聊这个只点到为止。",
+    "confidence": "medium",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.kokodayo",
+    "term": "kokodayo",
+    "aliases": [
+      "ko~ko~da~yo~",
+      "克洛丝问候"
+    ],
+    "kind": "voice",
+    "meaning": "克洛丝的招呼语音空耳，社区最常见的方舟语音梗之一。",
+    "origin": "克洛丝的中文/日文招呼语音。",
+    "usage": "提到克洛丝、或模仿她打招呼。",
+    "avoid": "别对不熟的人刷，容易显得只会玩梗。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.apple_pie",
+    "term": "阿噗噜派",
+    "aliases": [
+      "apple pie",
+      "能天使苹果派"
+    ],
+    "kind": "voice",
+    "meaning": "能天使“Apple Pie”语音的空耳，常用来指她。",
+    "origin": "能天使的语音。",
+    "usage": "聊能天使、或玩空耳梗。",
+    "avoid": "别把它当成能天使的全部人设。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.texas_can_do",
+    "term": "德克萨斯做得到吗",
+    "aliases": [
+      "德克萨斯，做得到吗"
+    ],
+    "kind": "voice",
+    "meaning": "拉普兰德台词的空耳/二创梗，常用来挑拨德克萨斯和拉普兰德。",
+    "origin": "拉普兰德的台词风格和二创传播。",
+    "usage": "聊拉普兰德、德克萨斯关系时用。",
+    "avoid": "别当成官方原句逐字引用，版本可能有差。",
+    "confidence": "medium",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.42",
+    "term": "42姐",
+    "aliases": [
+      "42",
+      "史尔特尔42"
+    ],
+    "kind": "nickname",
+    "meaning": "史尔特尔的外号，社区常用“42”代指她。",
+    "origin": "早期社区对史尔特尔的简称，具体来历版本不一。",
+    "usage": "聊史尔特尔、或高强度法伤时用。",
+    "avoid": "别把“42”当成她的官方编号。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.didi",
+    "term": "蒂蒂",
+    "aliases": [
+      "斯卡蒂蒂蒂"
+    ],
+    "kind": "nickname",
+    "meaning": "斯卡蒂的昵称。",
+    "origin": "“斯卡蒂”末字的叠称。",
+    "usage": "聊斯卡蒂、深海线时用。",
+    "avoid": "别和“红蒂”（浊心斯卡蒂）混用。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.shark",
+    "term": "鲨鲨",
+    "aliases": [
+      "幽灵鲨鲨鲨"
+    ],
+    "kind": "nickname",
+    "meaning": "幽灵鲨的昵称。",
+    "origin": "幽灵鲨的鲨鱼特征。",
+    "usage": "聊幽灵鲨、深海猎人时用。",
+    "avoid": "异格“归溟幽灵鲨”最好说全，别只叫鲨鲨。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.myrtle_general",
+    "term": "桃将军",
+    "aliases": [
+      "桃金娘将军"
+    ],
+    "kind": "nickname",
+    "meaning": "桃金娘的外号，夸她举旗回费、先锋核心。",
+    "origin": "桃金娘的旗子和战场作用。",
+    "usage": "聊先锋、回费、桃金娘时用。",
+    "avoid": "别把她真当成龙门军方的人。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.chicken_essence",
+    "term": "鸡精",
+    "aliases": [
+      "极境鸡精"
+    ],
+    "kind": "nickname",
+    "meaning": "极境的谐音外号。",
+    "origin": "“极境”和“鸡精”的谐音。",
+    "usage": "聊极境、狙击/先锋体系时用。",
+    "avoid": "别在正经档案里写这个外号。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.saria_dad",
+    "term": "塞爹",
+    "aliases": [
+      "塞雷娅爹"
+    ],
+    "kind": "nickname",
+    "meaning": "塞雷娅的外号，夸她能扛能奶、像爹一样稳。",
+    "origin": "塞雷娅的重装/治疗定位。",
+    "usage": "聊重装、塞雷娅时用。",
+    "avoid": "别在正经人物介绍里用。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.silver_boss",
+    "term": "银老板",
+    "aliases": [
+      "银灰老板"
+    ],
+    "kind": "nickname",
+    "meaning": "银灰的外号，指他喀兰贸易总裁的身份。",
+    "origin": "银灰的财阀/领袖设定。",
+    "usage": "聊银灰、喀兰贸易时用。",
+    "avoid": "别把“老板”当成他的正式头衔。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.sheep",
+    "term": "小羊",
+    "aliases": [
+      "艾雅法拉小羊"
+    ],
+    "kind": "nickname",
+    "meaning": "艾雅法拉的外号。",
+    "origin": "她的羊角/种族特征。",
+    "usage": "聊艾雅法拉、术师时用。",
+    "avoid": "别和“火山”技能梗混在一起说。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.fire_dragon",
+    "term": "火龙",
+    "aliases": [
+      "伊芙利特火龙"
+    ],
+    "kind": "nickname",
+    "meaning": "伊芙利特的外号，指她的火焰源石技艺。",
+    "origin": "伊芙利特的火焰能力。",
+    "usage": "聊伊芙利特、术师时用。",
+    "avoid": "别把它当成她的种族。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.white_pigeon",
+    "term": "白咕咕",
+    "aliases": [
+      "白面鸮咕咕"
+    ],
+    "kind": "nickname",
+    "meaning": "白面鸮的昵称，来自她的语音和鸟类设定。",
+    "origin": "白面鸮的说话方式和鸟类特征。",
+    "usage": "聊白面鸮、群奶时用。",
+    "avoid": "别把她和赫默的“咕”混用。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.melantha_sword_saint",
+    "term": "玫剑圣",
+    "aliases": [
+      "玫兰莎剑圣"
+    ],
+    "kind": "nickname",
+    "meaning": "玫兰莎的外号，调侃三星近卫里她的输出。",
+    "origin": "低星战神梗。",
+    "usage": "聊低星队、玫兰莎时用。",
+    "avoid": "别真拿她碰瓷六星近卫。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.hibiscus_food",
+    "term": "芙蓉健康餐",
+    "aliases": [
+      "芙蓉营养餐",
+      "健康餐"
+    ],
+    "kind": "community",
+    "meaning": "调侃芙蓉做的饭难吃、但很“健康”的梗。",
+    "origin": "芙蓉的料理设定和干员语音。",
+    "usage": "聊罗德岛食堂、芙蓉时用。",
+    "avoid": "别把它当成正式菜单。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.purple_ten_pull",
+    "term": "紫气东来",
+    "aliases": [
+      "十连全紫"
+    ],
+    "kind": "gameplay",
+    "meaning": "十连抽全是四星/紫色，没有高星的抽卡结果。",
+    "origin": "抽卡界面的颜色。",
+    "usage": "自嘲抽卡运气差。",
+    "avoid": "别拿它安慰真沉船的人。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.off_rate",
+    "term": "歪了",
+    "aliases": [
+      "歪池"
+    ],
+    "kind": "gameplay",
+    "meaning": "抽限定/UP 池时出了非 UP 的六星。",
+    "origin": "抽卡概率机制。",
+    "usage": "聊抽卡结果时用。",
+    "avoid": "别把“歪了”说成保底机制本身。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.spark",
+    "term": "井",
+    "aliases": [
+      "吃井",
+      "300井"
+    ],
+    "kind": "gameplay",
+    "meaning": "抽到 300 抽直接用保底兑换限定，叫“井”。",
+    "origin": "限定池的 300 抽兑换机制。",
+    "usage": "聊抽卡成本、沉船时用。",
+    "avoid": "别把普通池也算成 300 井。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.meta_god",
+    "term": "幻神",
+    "aliases": [
+      "三幻神"
+    ],
+    "kind": "gameplay",
+    "meaning": "强度顶格、几乎任何图都能上的干员，社区叫幻神。",
+    "origin": "强度榜和社区评价。",
+    "usage": "聊强度、练卡优先级时用。",
+    "avoid": "版本会变，别把某一版幻神当永久结论。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.cornerstone",
+    "term": "基石",
+    "aliases": [
+      "基石干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "能长期站场、稳定清杂的干员，常和幻神区分。",
+    "origin": "强度讨论里的定位分类。",
+    "usage": "聊站场、清杂、挂机时用。",
+    "avoid": "别把所有高星都叫基石。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.roguelike",
+    "term": "肉鸽",
+    "aliases": [
+      "集成战略",
+      "IS"
+    ],
+    "kind": "gameplay",
+    "meaning": "集成战略模式的社区叫法，来自 roguelike 音译。",
+    "origin": "集成战略的随机爬塔玩法。",
+    "usage": "聊集成战略、开局分队时用。",
+    "avoid": "别把普通主线叫肉鸽。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.cc",
+    "term": "危机合约",
+    "aliases": [
+      "合约",
+      "CC"
+    ],
+    "kind": "gameplay",
+    "meaning": "高难词条挑战模式，社区常简称“合约”。",
+    "origin": "危机合约活动。",
+    "usage": "聊高难、词条、作业时用。",
+    "avoid": "别和“保全派驻”混为一谈。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.sanity",
+    "term": "理智",
+    "aliases": [
+      "理智药",
+      "碎石"
+    ],
+    "kind": "gameplay",
+    "meaning": "刷关消耗的体力，也指“理智药”和“碎石回理智”。",
+    "origin": "游戏体力系统。",
+    "usage": "聊刷材料、体力规划时用。",
+    "avoid": "别把“理智”当成角色属性。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.lmd",
+    "term": "龙门币",
+    "aliases": [
+      "LMD"
+    ],
+    "kind": "gameplay",
+    "meaning": "游戏基础货币，升级、精英化都用它。",
+    "origin": "游戏内货币设定。",
+    "usage": "聊养成、缺钱时用。",
+    "avoid": "别和合成玉、源石混用。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.orundum",
+    "term": "合成玉",
+    "aliases": [
+      "合成玉"
+    ],
+    "kind": "gameplay",
+    "meaning": "抽卡货币，和源石一起构成抽卡资源。",
+    "origin": "游戏抽卡系统。",
+    "usage": "聊抽卡储备时用。",
+    "avoid": "别把合成玉说成龙门币。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.originium",
+    "term": "源石",
+    "aliases": [
+      "至纯源石"
+    ],
+    "kind": "gameplay",
+    "meaning": "既是世界观里的矿物，也是游戏里的高级货币。",
+    "origin": "游戏设定和抽卡资源。",
+    "usage": "聊抽卡、源石病、世界观时按语境区分。",
+    "avoid": "别把“源石”和“至纯源石”混着说而不解释。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.sui_family",
+    "term": "岁家",
+    "aliases": [
+      "岁相一家",
+      "岁阵营"
+    ],
+    "kind": "community",
+    "meaning": "年、夕、令、重岳等“岁”相关角色的合称。",
+    "origin": "岁相剧情和春节活动。",
+    "usage": "聊岁线、春节活动时用。",
+    "avoid": "别把所有炎国角色都算进岁家。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.big_brother",
+    "term": "大哥",
+    "aliases": [
+      "重岳大哥"
+    ],
+    "kind": "nickname",
+    "meaning": "重岳的社区称呼，源于他在岁家兄弟里的长兄位置。",
+    "origin": "重岳的角色设定。",
+    "usage": "聊重岳、岁家时用。",
+    "avoid": "别在正式档案里只写“大哥”。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.ling_sister",
+    "term": "令姐",
+    "aliases": [
+      "令姐姐"
+    ],
+    "kind": "nickname",
+    "meaning": "令的社区称呼。",
+    "origin": "令的成熟气质和岁家排行。",
+    "usage": "聊令、岁家时用。",
+    "avoid": "别把她和“令”的官方代号混成另一个角色。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.dusk_melon",
+    "term": "夕瓜",
+    "aliases": [
+      "夕瓜瓜"
+    ],
+    "kind": "nickname",
+    "meaning": "夕的可爱向昵称，社区常用。",
+    "origin": "“夕”加“瓜”的卖萌叫法。",
+    "usage": "聊夕、岁家时用。",
+    "avoid": "别在正经剧情分析里用。",
+    "confidence": "medium",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.babel_ghost",
+    "term": "巴别塔恶灵",
+    "aliases": [
+      "恶灵",
+      "巴别塔的恶灵"
+    ],
+    "kind": "community",
+    "meaning": "指博士在巴别塔时期的过去，玩家拿来调侃博士“失忆前不是好人”。",
+    "origin": "巴别塔旧事和博士失忆设定。",
+    "usage": "聊博士过去、巴别塔线时用。",
+    "avoid": "别当成官方对博士的定性，那是玩家说法。",
+    "confidence": "medium",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.w_jiang",
+    "term": "W酱",
+    "aliases": [
+      "W酱酱"
+    ],
+    "kind": "nickname",
+    "meaning": "W 的昵称。",
+    "origin": "W 的名字加“酱”。",
+    "usage": "聊 W、萨卡兹线时用。",
+    "avoid": "别和“W”这个代号本身混为一谈。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.great_quiet",
+    "term": "大静谧",
+    "aliases": [
+      "大静谧事件"
+    ],
+    "kind": "story",
+    "meaning": "伊比利亚外海发生的大灾变，海嗣大规模上岸。",
+    "origin": "伊比利亚与深海线。",
+    "usage": "聊伊比利亚、海嗣、深海猎人时用。",
+    "avoid": "别把它和普通天灾混在一起。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.seaborn",
+    "term": "海嗣",
+    "aliases": [
+      "海嗣群"
+    ],
+    "kind": "story",
+    "meaning": "来自海洋的异种生物，深海线的核心威胁。",
+    "origin": "深海猎人和伊比利亚剧情。",
+    "usage": "聊深海线时用。",
+    "avoid": "别把海嗣当成普通感染者。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.demon",
+    "term": "邪魔",
+    "aliases": [
+      "邪魔碎片"
+    ],
+    "kind": "story",
+    "meaning": "萨米、乌萨斯北境方向的超自然威胁，和坍缩有关。",
+    "origin": "萨米、北境剧情。",
+    "usage": "聊萨米、北境、邪魔时用。",
+    "avoid": "别把邪魔和源石病混为一谈。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.collapse",
+    "term": "坍缩",
+    "aliases": [
+      "坍缩现象"
+    ],
+    "kind": "story",
+    "meaning": "邪魔相关的空间/认知崩坏现象。",
+    "origin": "萨米和邪魔线。",
+    "usage": "聊北境异常时用。",
+    "avoid": "别把它当成普通的源石技艺。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.originium_disease",
+    "term": "源石病",
+    "aliases": [
+      "矿石病"
+    ],
+    "kind": "story",
+    "meaning": "源石侵蚀导致的疾病，感染者会被歧视和隔离。",
+    "origin": "泰拉世界的基础设定。",
+    "usage": "聊感染者、罗德岛、歧视时用。",
+    "avoid": "别把源石病说成传染病。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.mobile_city",
+    "term": "移动城市",
+    "aliases": [
+      "移动城"
+    ],
+    "kind": "story",
+    "meaning": "建在履带/移动结构上的城市，天灾过后靠移动躲避。",
+    "origin": "泰拉城市设定。",
+    "usage": "聊龙门、乌萨斯、天灾时用。",
+    "avoid": "别把每个聚落都叫移动城市。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.catastrophe",
+    "term": "天灾",
+    "aliases": [
+      "天灾云"
+    ],
+    "kind": "story",
+    "meaning": "泰拉周期性的自然灾害，过后留下源石。",
+    "origin": "泰拉基础设定。",
+    "usage": "聊移动城市、源石、灾区时用。",
+    "avoid": "别把人为事故也叫天灾。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.mastery3",
+    "term": "专三",
+    "aliases": [
+      "三技能专三",
+      "专精三"
+    ],
+    "kind": "gameplay",
+    "meaning": "技能专精到第三级，社区简称“专三”。",
+    "origin": "干员技能专精系统。",
+    "usage": "聊练度、技能优先级时用。",
+    "avoid": "别把“专三”说成精英化三级。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.mastery9",
+    "term": "专九",
+    "aliases": [
+      "九技能专精"
+    ],
+    "kind": "gameplay",
+    "meaning": "三个技能都专精三，合计九级，叫“专九”。",
+    "origin": "技能专精系统。",
+    "usage": "聊满练、极限练度时用。",
+    "avoid": "别把专九当成九个技能。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.2903",
+    "term": "2903",
+    "aliases": [
+      "二九零三"
+    ],
+    "kind": "gameplay",
+    "meaning": "精二 90 级、技能专三的练度缩写。",
+    "origin": "练度黑话。",
+    "usage": "聊干员练度时用。",
+    "avoid": "别和“2909”混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.2909",
+    "term": "2909",
+    "aliases": [
+      "二九零九"
+    ],
+    "kind": "gameplay",
+    "meaning": "精二 90 级、三技能专九的练度缩写。",
+    "origin": "练度黑话。",
+    "usage": "聊满练干员时用。",
+    "avoid": "别把它当成等级。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.full_potential",
+    "term": "满潜",
+    "aliases": [
+      "满潜能"
+    ],
+    "kind": "gameplay",
+    "meaning": "潜能升满。",
+    "origin": "干员潜能系统。",
+    "usage": "聊抽卡、练度时用。",
+    "avoid": "别把满潜当成满级。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.low_cost",
+    "term": "低配",
+    "aliases": [
+      "低配作业"
+    ],
+    "kind": "gameplay",
+    "meaning": "用低星、低练度通关的阵容。",
+    "origin": "攻略社区。",
+    "usage": "聊抄作业、萌新开荒时用。",
+    "avoid": "别把低配当成低难。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.homework",
+    "term": "抄作业",
+    "aliases": [
+      "作业"
+    ],
+    "kind": "gameplay",
+    "meaning": "照搬别人的通关阵容和打法。",
+    "origin": "攻略社区。",
+    "usage": "聊高难、活动开荒时用。",
+    "avoid": "别把“作业”当成真的作业。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.afk",
+    "term": "挂机",
+    "aliases": [
+      "挂机流"
+    ],
+    "kind": "gameplay",
+    "meaning": "用自动/长时间站场阵容无脑过关。",
+    "origin": "游戏玩法。",
+    "usage": "聊清杂、日常时用。",
+    "avoid": "别把所有自动都叫挂机。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.cc_top",
+    "term": "合约顶层",
+    "aliases": [
+      "顶层合约",
+      "危机合约顶层"
+    ],
+    "kind": "gameplay",
+    "meaning": "危机合约的最高层词条挑战。",
+    "origin": "危机合约。",
+    "usage": "聊高难、合约时用。",
+    "avoid": "别把普通合约层数叫顶层。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.gilded",
+    "term": "镀层",
+    "aliases": [
+      "镀层章"
+    ],
+    "kind": "gameplay",
+    "meaning": "蚀刻章的一种完成状态，常指高难奖励。",
+    "origin": "蚀刻章系统。",
+    "usage": "聊合约、活动奖励时用。",
+    "avoid": "别把镀层当成皮肤。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.etching",
+    "term": "蚀刻章",
+    "aliases": [
+      "蚀刻章子"
+    ],
+    "kind": "gameplay",
+    "meaning": "游戏内的成就徽章。",
+    "origin": "蚀刻章系统。",
+    "usage": "聊活动完成度时用。",
+    "avoid": "别和干员模组混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.alter",
+    "term": "异格",
+    "aliases": [
+      "异格干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "同一角色的另一个可获取版本。",
+    "origin": "干员异格系统。",
+    "usage": "聊水陈、红蒂、异德时用。",
+    "avoid": "别把异格当成皮肤。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.limited",
+    "term": "限定",
+    "aliases": [
+      "限定干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "只在限定池出现的干员。",
+    "origin": "抽卡卡池。",
+    "usage": "聊抽卡、井时用。",
+    "avoid": "别把普通 UP 叫限定。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.companion",
+    "term": "陪跑",
+    "aliases": [
+      "陪跑干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "同一卡池里非 UP 或非目标的干员。",
+    "origin": "抽卡卡池。",
+    "usage": "聊歪卡、卡池时用。",
+    "avoid": "别把陪跑当成弱。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.collab",
+    "term": "联动",
+    "aliases": [
+      "联动干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "和其他作品合作的限定内容。",
+    "origin": "联动活动。",
+    "usage": "聊彩虹六号、怪猎等联动时用。",
+    "avoid": "别把普通活动叫联动。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.yellow_ticket",
+    "term": "黄票",
+    "aliases": [
+      "高级凭证"
+    ],
+    "kind": "gameplay",
+    "meaning": "高级凭证，商店换抽卡资源。",
+    "origin": "凭证系统。",
+    "usage": "聊抽卡储备时用。",
+    "avoid": "别和绿票、红票混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.green_ticket",
+    "term": "绿票",
+    "aliases": [
+      "资质凭证"
+    ],
+    "kind": "gameplay",
+    "meaning": "资质凭证，商店换材料。",
+    "origin": "凭证系统。",
+    "usage": "聊材料兑换时用。",
+    "avoid": "别和黄票混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.red_ticket",
+    "term": "红票",
+    "aliases": [
+      "采购凭证"
+    ],
+    "kind": "gameplay",
+    "meaning": "采购凭证，商店换芯片等。",
+    "origin": "凭证系统。",
+    "usage": "聊养成材料时用。",
+    "avoid": "别和黄票混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.public_recruit",
+    "term": "公招",
+    "aliases": [
+      "公开招募"
+    ],
+    "kind": "gameplay",
+    "meaning": "公开招募系统。",
+    "origin": "公招系统。",
+    "usage": "聊高资、资深时用。",
+    "avoid": "别和限定池混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.senior_tag",
+    "term": "高资",
+    "aliases": [
+      "高级资深干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "公招里的高级资深词条，能出六星。",
+    "origin": "公开招募。",
+    "usage": "聊公招出货时用。",
+    "avoid": "别把“资深”也叫高资。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.senior",
+    "term": "资深",
+    "aliases": [
+      "资深干员"
+    ],
+    "kind": "gameplay",
+    "meaning": "公招里的资深词条，能出五星。",
+    "origin": "公开招募。",
+    "usage": "聊公招时用。",
+    "avoid": "别和高资混。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.grind_originium",
+    "term": "搓玉",
+    "aliases": [
+      "搓合成玉"
+    ],
+    "kind": "gameplay",
+    "meaning": "用理智刷材料换合成玉。",
+    "origin": "基建/材料循环。",
+    "usage": "聊抽卡储备时用。",
+    "avoid": "别把搓玉说成直接充钱。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.stone_sanity",
+    "term": "碎石",
+    "aliases": [
+      "碎石回理智"
+    ],
+    "kind": "gameplay",
+    "meaning": "用源石换理智。",
+    "origin": "体力系统。",
+    "usage": "聊赶进度、刷材料时用。",
+    "avoid": "别把碎石说成抽卡。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  },
+  {
+    "id": "meme.pity_setup",
+    "term": "垫刀",
+    "aliases": [
+      "垫池"
+    ],
+    "kind": "gameplay",
+    "meaning": "在目标池前先抽别的池，垫保底。",
+    "origin": "抽卡保底。",
+    "usage": "聊抽卡规划时用。",
+    "avoid": "别把垫刀说成必出。",
+    "confidence": "high",
+    "source": "社区口传，非官方"
+  }
+]

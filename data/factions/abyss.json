@@ -1,0 +1,58 @@
+[
+  {
+    "id": "abyss_hunters",
+    "type": "org",
+    "name": "深海猎人",
+    "aliases": ["Abyssal Hunters"],
+    "faction": "阿戈尔",
+    "summary": "阿戈尔的海底猎手，对抗海嗣，斯卡蒂、幽灵鲨、歌蕾蒂娅。",
+    "body": "深海猎人，阿戈尔那边培养出来的猎手，专门对付海嗣。血统和改造都有说道，活下来的没几个。斯卡蒂、幽灵鲨、歌蕾蒂娅都是这条线上的。阿对海里的东西一概不信，也不想去碰。",
+    "tags": ["阿戈尔", "海嗣", "猎手"],
+    "knowledge": "rumor",
+    "confidence": "medium",
+    "source": "覆潮之下；愚人号",
+    "asOf": "1098"
+  },
+  {
+    "id": "skadi",
+    "type": "person",
+    "name": "斯卡蒂",
+    "aliases": ["Skadi"],
+    "faction": "深海猎人",
+    "summary": "深海猎人，阿戈尔出身，剑术沉重，话少。",
+    "body": "斯卡蒂，深海猎人，阿戈尔出身，用一把大剑。话少，力气大得不像人。跟罗德岛有合作。阿没见过真人，只听过她那些不太像编的传闻。",
+    "tags": ["深海猎人", "剑", "阿戈尔"],
+    "knowledge": "rumor",
+    "confidence": "medium",
+    "source": "覆潮之下；干员档案",
+    "asOf": "1098"
+  },
+  {
+    "id": "spectre",
+    "type": "person",
+    "name": "幽灵鲨",
+    "aliases": ["Specter", "劳伦缇娜"],
+    "faction": "深海猎人",
+    "summary": "深海猎人，精神状态不稳，被罗德岛收治过。",
+    "body": "幽灵鲨，深海猎人，精神状态一直不稳，在罗德岛待过。疯起来谁都拦不住，清醒的时候又能说几句明白话。阿对她的病历比对她本人感兴趣。",
+    "tags": ["深海猎人", "精神状态", "罗德岛"],
+    "knowledge": "rumor",
+    "confidence": "medium",
+    "source": "覆潮之下；干员档案",
+    "asOf": "1098"
+  },
+  {
+    "id": "gladia",
+    "type": "person",
+    "name": "歌蕾蒂娅",
+    "aliases": ["Gladiia"],
+    "faction": "深海猎人",
+    "summary": "深海猎人队长，阿戈尔军官出身，手段冷。",
+    "body": "歌蕾蒂娅，深海猎人的队长，阿戈尔军官出身。做事冷，算得远。跟罗德岛的合作谈得并不轻松。阿对她的评价：不好惹，也别信太满。",
+    "tags": ["深海猎人", "队长", "阿戈尔"],
+    "knowledge": "rumor",
+    "confidence": "medium",
+    "source": "覆潮之下；愚人号",
+    "asOf": "1098"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "name": "dsh-ark-lore",
+  "version": "0.10.2",
+  "description": "Arknights lore memory for DeepSeek Harness: faction files, alias routing, in-world timeline.",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "data",
+    "skills",
+    "scripts",
+    "locale",
+    "icon.svg",
+    "cordis.patch.yml",
+    "README.md",
+    "使用说明书.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "arknights",
+    "lore",
+    "memory"
+  ],
+  "license": "MIT",
+  "author": "shengsheng778",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shengsheng778/dsh-ark-lore"
+  },
+  "homepage": "https://github.com/shengsheng778/dsh-ark-lore",
+  "bugs": {
+    "url": "https://github.com/shengsheng778/dsh-ark-lore/issues"
+  },
+  "engines": {
+    "node": ">=20",
+    "dsh": ">=0.2.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
+
+

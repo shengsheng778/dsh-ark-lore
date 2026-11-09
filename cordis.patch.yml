@@ -1,0 +1,4 @@
+- insert:
+    - id: ark-lore
+      name: dsh-ark-lore
+      config: {}
