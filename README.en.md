@@ -1,10 +1,10 @@
-# dsh-ark-lore
+﻿# dsh-ark-lore
 
 Arknights lore memory for DeepSeek Harness. Faction files, alias routing, an in-world timeline, operator records, community memes, a full story archive, and on-demand PRTS lookup.
 
 ## What is inside
 
-- 502 entities, 607 events, 70 community memes
+- 503 entities, 607 events, 70 community memes
 - 423 operator records, 3,658 sections
 - 2,326 story segments, 378,860 lines (main story, operator records, events, roguelike endings/IF lines)
 - Terra-calendar timeline from 1002 to 1099
@@ -33,3 +33,4 @@ dsh plugin add https://github.com/shengsheng778/dsh-ark-lore/releases/download/v
 ## Feedback
 
 QQ group: `1129849036` (Chinese). Test builds, bug reports, and data corrections go there.
+
