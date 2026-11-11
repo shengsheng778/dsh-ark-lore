@@ -4,7 +4,8 @@
     "type": "concept",
     "name": "泰拉",
     "aliases": [
-      "泰拉"
+      "泰拉",
+      "Terra"
     ],
     "faction": "泰拉",
     "summary": "这片大陆和它上面的世界，故事都发生在这儿。",
@@ -25,7 +26,8 @@
     "name": "源石",
     "aliases": [
       "源石",
-      "源石矿脉"
+      "源石矿脉",
+      "Originium"
     ],
     "faction": "泰拉",
     "summary": "泰拉的能源与灾祸之源，天灾后析出，感染者由此而来。",
@@ -45,7 +47,9 @@
     "type": "concept",
     "name": "天灾",
     "aliases": [
-      "天灾"
+      "天灾",
+      "Catastrophe",
+      "Catastrophes"
     ],
     "faction": "泰拉",
     "summary": "泰拉周期性灾难，过后留下源石。",
@@ -65,7 +69,8 @@
     "type": "concept",
     "name": "矿石病",
     "aliases": [
-      "矿石病"
+      "矿石病",
+      "Oripathy"
     ],
     "faction": "泰拉",
     "summary": "源石侵蚀引发的疾病，无法治愈，社会歧视的根。",
@@ -85,7 +90,8 @@
     "type": "concept",
     "name": "感染者",
     "aliases": [
-      "感染者"
+      "感染者",
+      "Infected"
     ],
     "faction": "泰拉",
     "summary": "矿石病患者的统称，被歧视、隔离、驱赶的一群人。",
@@ -105,7 +111,9 @@
     "type": "concept",
     "name": "移动城市",
     "aliases": [
-      "移动城市"
+      "移动城市",
+      "Mobile City",
+      "Nomadic City"
     ],
     "faction": "泰拉",
     "summary": "装在履带上的城市，用来躲天灾。",
@@ -126,7 +134,9 @@
     "name": "源石技艺",
     "aliases": [
       "源石技艺",
-      "法术"
+      "法术",
+      "Arts",
+      "Originium Arts"
     ],
     "faction": "泰拉",
     "summary": "用源石施展的超自然力量，分很多流派。",
@@ -147,7 +157,8 @@
     "name": "萨卡兹",
     "aliases": [
       "萨卡兹",
-      "提卡兹"
+      "提卡兹",
+      "Sarkaz"
     ],
     "faction": "萨卡兹",
     "summary": "被泰拉诸国排斥的种族，卡兹戴尔与王庭的旧账。",
@@ -168,7 +179,8 @@
     "name": "岁",
     "aliases": [
       "岁",
-      "岁兽"
+      "岁兽",
+      "Sui"
     ],
     "faction": "炎",
     "summary": "炎国的巨兽，被真龙讨伐后分裂成十二枚碎片。",
@@ -191,7 +203,9 @@
     "name": "海嗣",
     "aliases": [
       "海嗣",
-      "初生"
+      "初生",
+      "Seaborn",
+      "Sea Terrors"
     ],
     "faction": "阿戈尔",
     "summary": "海底的异种，阿戈尔的死敌，大静谧的源头之一。",
@@ -211,7 +225,8 @@
     "type": "concept",
     "name": "大静谧",
     "aliases": [
-      "大静谧"
+      "大静谧",
+      "Great Silence"
     ],
     "faction": "伊比利亚",
     "summary": "伊比利亚海疆的大灾难，黄金舰队覆没，国家从此衰落。",
@@ -232,7 +247,9 @@
     "name": "魔王",
     "aliases": [
       "魔王",
-      "文明的存续"
+      "文明的存续",
+      "Demon King",
+      "King of Sarkaz"
     ],
     "faction": "萨卡兹",
     "summary": "萨卡兹的魔王传承，阿米娅继承了这份东西。",
@@ -261,7 +278,9 @@
       "保存者",
       "深蓝之树",
       "普瑞赛斯",
-      "弗里斯顿"
+      "弗里斯顿",
+      "Precursor",
+      "Predecessor Civilization"
     ],
     "faction": "泰拉",
     "summary": "泰拉历之前的高度发达文明。毁于“观察者”，留下源石、星荚、深蓝之树、石棺和大量遗产。",
