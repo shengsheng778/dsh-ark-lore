@@ -3,11 +3,19 @@
     "id": "penguin",
     "type": "org",
     "name": "企鹅物流",
-    "aliases": ["企鹅物流", "Penguin Logistics"],
+    "aliases": [
+      "企鹅物流",
+      "Penguin Logistics"
+    ],
     "faction": "企鹅物流",
     "summary": "龙门起家的物流公司，德克萨斯、能天使、可颂。",
     "body": "企鹅物流明面上送快递，实际上什么活都接。德克萨斯、能天使、可颂、空这几个人凑一块，老板是个企鹅。跟罗德岛合作过不少次。",
-    "tags": ["物流", "龙门", "德克萨斯", "能天使"],
+    "tags": [
+      "物流",
+      "龙门",
+      "德克萨斯",
+      "能天使"
+    ],
     "knowledge": "public",
     "confidence": "high",
     "source": "主线；干员档案",
@@ -17,11 +25,20 @@
     "id": "blacksteel",
     "type": "org",
     "name": "黑钢国际",
-    "aliases": ["黑钢国际", "黑钢", "Blacksteel"],
+    "aliases": [
+      "黑钢国际",
+      "黑钢",
+      "Blacksteel"
+    ],
     "faction": "黑钢国际",
     "summary": "哥伦比亚私营军事公司，芙兰卡、雷蛇。",
     "body": "黑钢是哥伦比亚的私营军事公司，接护送、镇暴、脏活。芙兰卡和雷蛇是里面的熟面孔，跟罗德岛有合作也有竞争。",
-    "tags": ["佣兵", "哥伦比亚", "芙兰卡", "雷蛇"],
+    "tags": [
+      "佣兵",
+      "哥伦比亚",
+      "芙兰卡",
+      "雷蛇"
+    ],
     "knowledge": "public",
     "confidence": "high",
     "source": "主线；大地巡旅",
@@ -31,11 +48,19 @@
     "id": "babel",
     "type": "org",
     "name": "巴别塔",
-    "aliases": ["巴别塔", "Babel"],
+    "aliases": [
+      "巴别塔",
+      "Babel"
+    ],
     "faction": "巴别塔",
     "summary": "特蕾西娅与凯尔希的旧组织，罗德岛前身之一。",
     "body": "巴别塔是特蕾西娅拉起、凯尔希帮着运作的组织，卡兹戴尔内战里跟特雷西斯分庭抗礼。特蕾西娅死后，剩下的人和船变成了罗德岛。",
-    "tags": ["特蕾西娅", "凯尔希", "卡兹戴尔内战", "罗德岛前身"],
+    "tags": [
+      "特蕾西娅",
+      "凯尔希",
+      "卡兹戴尔内战",
+      "罗德岛前身"
+    ],
     "knowledge": "rumor",
     "confidence": "medium",
     "source": "巴别塔；大地巡旅",
@@ -45,11 +70,20 @@
     "id": "deep_pool",
     "type": "org",
     "name": "深池",
-    "aliases": ["深池", "塔拉"],
+    "aliases": [
+      "深池",
+      "塔拉",
+      "Deep Pool"
+    ],
     "faction": "深池",
     "summary": "塔拉/维多利亚的德拉克组织，爱布拉娜与苇草。",
     "body": "深池打着塔拉独立的旗号，爱布拉娜在台前，苇草在暗处。手段不干净，目标倒是明确：把维多利亚从伦蒂尼姆手里撕开。",
-    "tags": ["塔拉", "德拉克", "爱布拉娜", "维多利亚"],
+    "tags": [
+      "塔拉",
+      "德拉克",
+      "爱布拉娜",
+      "维多利亚"
+    ],
     "knowledge": "rumor",
     "confidence": "medium",
     "source": "照我以火；挽歌燃烧殆尽",
@@ -59,11 +93,19 @@
     "id": "karlan",
     "type": "org",
     "name": "喀兰贸易",
-    "aliases": ["喀兰贸易", "喀兰"],
+    "aliases": [
+      "喀兰贸易",
+      "喀兰",
+      "Karlan Trade"
+    ],
     "faction": "喀兰贸易",
     "summary": "谢拉格的对外企业，恩希欧迪斯。",
     "body": "喀兰贸易是谢拉格对外的门面，恩希欧迪斯用它换技术、换市场、换话语权。雪山事变之后，它既是公司也是希瓦艾什家的手。",
-    "tags": ["谢拉格", "恩希欧迪斯", "贸易"],
+    "tags": [
+      "谢拉格",
+      "恩希欧迪斯",
+      "贸易"
+    ],
     "knowledge": "public",
     "confidence": "high",
     "source": "风雪过境；银心湖列车",
@@ -73,11 +115,19 @@
     "id": "glasgow",
     "type": "org",
     "name": "格拉斯哥帮",
-    "aliases": ["格拉斯哥帮", "格拉斯哥"],
+    "aliases": [
+      "格拉斯哥帮",
+      "格拉斯哥",
+      "Glasgow Gang"
+    ],
     "faction": "格拉斯哥帮",
     "summary": "伦蒂尼姆街头帮派，维娜的班底。",
     "body": "格拉斯哥帮是伦蒂尼姆诺伯特区的街头势力，维娜回城之后成了她的班底。打仗不行，跑腿、盯人、拼命行。",
-    "tags": ["伦蒂尼姆", "维娜", "街头"],
+    "tags": [
+      "伦蒂尼姆",
+      "维娜",
+      "街头"
+    ],
     "knowledge": "rumor",
     "confidence": "medium",
     "source": "追迹日落以西；主线",
@@ -87,11 +137,22 @@
     "id": "lee_agency",
     "type": "org",
     "name": "鲤氏侦探事务所",
-    "aliases": ["鲤氏", "鲤氏侦探事务所"],
+    "aliases": [
+      "鲤氏",
+      "鲤氏侦探事务所",
+      "Lee's Detective Agency"
+    ],
     "faction": "龙门",
     "summary": "龙门下城区的事务所，老鲤、阿、吽、槐琥。",
     "body": "鲤氏开在龙门下城区，明面接侦探活，暗里什么都干。老鲤掌事，阿管药，吽看场子做饭，槐琥跑腿。年常来蹭饭，跟阿熟，但不算事务所的人。",
-    "tags": ["龙门", "下城区", "老鲤", "阿", "吽", "槐琥"],
+    "tags": [
+      "龙门",
+      "下城区",
+      "老鲤",
+      "阿",
+      "吽",
+      "槐琥"
+    ],
     "knowledge": "seen",
     "confidence": "high",
     "background": true,
@@ -102,11 +163,19 @@
     "id": "student_gov",
     "type": "org",
     "name": "乌萨斯学生自治团",
-    "aliases": ["乌萨斯学生自治团", "学生自治团"],
+    "aliases": [
+      "乌萨斯学生自治团",
+      "学生自治团",
+      "Ursus Student Self-Governing Group"
+    ],
     "faction": "乌萨斯",
     "summary": "切尔诺伯格学生组成的自救团体，凛冬。",
     "body": "切尔诺伯格事变里，一群学生自己拉起队伍活下来，后来跟着罗德岛。凛冬是头，真理管脑子，古米管饭。",
-    "tags": ["切尔诺伯格", "学生", "凛冬"],
+    "tags": [
+      "切尔诺伯格",
+      "学生",
+      "凛冬"
+    ],
     "knowledge": "rumor",
     "confidence": "medium",
     "background": true,
@@ -117,11 +186,18 @@
     "id": "rust_hammer",
     "type": "org",
     "name": "锈锤",
-    "aliases": ["锈锤"],
+    "aliases": [
+      "锈锤",
+      "Rust Hammer"
+    ],
     "faction": "锈锤",
     "summary": "维多利亚的感染者与老兵组织。",
     "body": "锈锤是维多利亚境内感染者、逃兵、老兵混成的武装，讲一套自己的规矩。说不上好人，但在伦蒂尼姆那种地方，能活就行。",
-    "tags": ["维多利亚", "感染者", "老兵"],
+    "tags": [
+      "维多利亚",
+      "感染者",
+      "老兵"
+    ],
     "knowledge": "rumor",
     "confidence": "low",
     "source": "灯火序曲；大地巡旅",
@@ -131,11 +207,19 @@
     "id": "confessor",
     "type": "org",
     "name": "赦罪师",
-    "aliases": ["赦罪师"],
+    "aliases": [
+      "赦罪师",
+      "Confessor",
+      "Confessors"
+    ],
     "faction": "萨卡兹",
     "summary": "萨卡兹王庭的特务与审判者。",
     "body": "赦罪师是萨卡兹王庭手里的刀，管审判、管清洗、管见不得光的事。特雷西斯用他们，他们也挑主子。",
-    "tags": ["萨卡兹", "王庭", "特务"],
+    "tags": [
+      "萨卡兹",
+      "王庭",
+      "特务"
+    ],
     "knowledge": "rumor",
     "confidence": "low",
     "source": "主线；大地巡旅",
